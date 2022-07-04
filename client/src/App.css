@@ -1,0 +1,9 @@
+#main {
+  width: 60%;
+  height: 100%;
+}
+
+#main h1 {
+  color: #444;
+  text-align: center;
+}
